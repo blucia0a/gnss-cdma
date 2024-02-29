@@ -1,0 +1,5 @@
+# Ignore Doxygen generated documentation in this directory
+*
+# Except this file
+!profile_cpu_times.py
+!.gitignore

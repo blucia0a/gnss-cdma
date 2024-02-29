@@ -1,0 +1,5 @@
+# Ignore Doxygen generated documentation in this directory
+*
+# Except this file
+!makefile
+!.gitignore

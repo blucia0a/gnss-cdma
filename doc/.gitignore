@@ -1,0 +1,6 @@
+# Ignore Doxygen generated documentation in this directory
+html/
+rtf/
+latex/
+# Except this file
+!.gitignore
